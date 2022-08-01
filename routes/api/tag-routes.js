@@ -55,7 +55,7 @@ router.post("/", async (req, res) => {
       res.status(400).json(err);
     });
 });
-//TODO:
+
 router.put("/:id", (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(req.body, {
