@@ -37,7 +37,7 @@ npm i
 
 ## Demo Link
 
-[Demo Link](https://drive.google.com/file/d/1L3eZtp4oDhspMsJWeaN4CjuJv5U0nXNK/view?usp=sharing)
+[Demo Link](https://www.youtube.com/watch?v=tDGvLheDzBc)
 
 ## Usage
 
