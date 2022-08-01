@@ -37,7 +37,6 @@ Product.init(
         model: "category",
         key: "id",
       },
-      // references category model's id
     },
   },
   {
